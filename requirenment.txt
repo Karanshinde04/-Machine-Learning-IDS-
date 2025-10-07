@@ -1,0 +1,24 @@
+# Core Libraries
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.5.1
+joblib==1.4.2
+
+# Jupyter Support (optional)
+notebook==7.2.2
+ipykernel==6.29.5
+
+# Model Evaluation & Visualization
+scipy==1.13.1
+plotly==5.24.1
+
+# (Optional) Deep Learning or Feature Selection (if used)
+tensorflow==2.17.0
+keras==3.4.1
+
+# For working with datasets and CSVs
+openpyxl==3.1.5
